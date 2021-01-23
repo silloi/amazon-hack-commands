@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "3.2.1",
-  "description": "A chrome extension boilerplate built with React 17 and Webpack 5",
+  "name": "chrome-extension-amazon-hack-search",
+  "version": "1.0.0",
+  "description": "Amazonで裏コマンドを追加して検索するツール",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/silloi/chrome-extension-amazon-hack-search.git"
   },
   "scripts": {
     "build": "node utils/build.js",
